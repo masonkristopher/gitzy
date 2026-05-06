@@ -60,7 +60,7 @@
     "clean-pkg-json": "1.4.2",
     "commander": "14.0.3",
     "commitlint": "20.5.3",
-    "eslint": "9.39.4",
+    "eslint": "10.3.0",
     "husky": "9.1.7",
     "is-ci": "4.1.0",
     "jiti": "2.7.0",
